@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/thalesmello/node-wrapper-for-standard/issues"
   },
-  "homepage": "https://github.com/thalesmello/node-wrapper-for-standard"
+  "homepage": "https://github.com/thalesmello/node-wrapper-for-standard",
+  "devDependencies": {
+    "standard": "^7.0.0",
+    "standard-format": "^2.1.1"
+  }
 }
