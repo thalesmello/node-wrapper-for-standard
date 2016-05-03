@@ -1,0 +1,19 @@
+{
+  "name": "node-wrapper-for-standard",
+  "version": "1.0.0",
+  "description": "A wrapper for standard js using latest node version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thalesmello/node-wrapper-for-standard.git"
+  },
+  "author": "Thales Mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thalesmello/node-wrapper-for-standard/issues"
+  },
+  "homepage": "https://github.com/thalesmello/node-wrapper-for-standard"
+}
