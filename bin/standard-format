@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-cd $(dirname $0)
 NODENV_VERSION=6.0.0 $(dirname $0)/../node_modules/.bin/standard-format $@
