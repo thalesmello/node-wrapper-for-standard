@@ -1,5 +1,10 @@
 {
   "name": "node-wrapper-for-standard",
+  "bin": {
+    "standard": "./bin/standard",
+    "standard-format": "./bin/standard-format",
+    "eslint_d": "./bin/eslint_d"
+  },
   "version": "1.0.0",
   "description": "A wrapper for standard js using latest node version",
   "main": "index.js",
@@ -17,6 +22,7 @@
   },
   "homepage": "https://github.com/thalesmello/node-wrapper-for-standard",
   "devDependencies": {
+    "eslint_d": "^3.1.1",
     "standard": "^7.0.0",
     "standard-format": "^2.1.1"
   }
