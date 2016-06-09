@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-NODENV_VERSION=6.0.0 $(dirname $0)/../node_modules/.bin/standard $@
+NODENV_VERSION=6.0.0 $(dirname $0)/../node_modules/.bin/eslint_d $@
