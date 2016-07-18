@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-NODENV_VERSION=6.0.0 $(dirname $0)/../node_modules/.bin/standard-format $@
+NODENV_VERSION=6.2.1 $(dirname $0)/../node_modules/.bin/standard-format $@
