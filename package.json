@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/thalesmello/node-wrapper-for-standard",
   "devDependencies": {
+    "eslint-config-standard": "^5.3.5",
     "eslint_d": "^3.1.1",
     "standard": "^7.0.0",
     "standard-format": "^2.1.1"
